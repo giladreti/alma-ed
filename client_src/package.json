@@ -22,9 +22,5 @@
     "build": "react-scripts build && cp -r build/* ../client/",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-  "engines": {
-    "node": "6.11.1",
-    "npm":"5.5.1"
   }
 }
