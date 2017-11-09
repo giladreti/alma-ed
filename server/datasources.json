@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "mongodb://gilad.reti",
+    "port": 27017,
+    "url": "mongodb://gilad.reti:gilad2001@ds042687.mlab.com:42687/forms-app",
+    "database": "Forms-App",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
